@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **raminjafary/raminjafary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**I am Ramin Jafary. OSS lover!**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raminjafary&theme=dark&dates=DDD70D)](https://git.io/streak-stats)

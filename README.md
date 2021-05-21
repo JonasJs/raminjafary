@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 -->
 **I am Ramin Jafary. OSS lover!**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raminjafary&theme=dark&dates=DDD70D)](https://git.io/streak-stats)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raminjafary&show_icons=true&theme=dark" />  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=raminjafary&theme=dark&dates=DDD70D)" />  
+</p>

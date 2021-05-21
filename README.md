@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 **I am Ramin Jafary. OSS lover!**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raminjafary&show_icons=true&theme=tokyonight" />  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raminjafary&show_icons=true&theme=tokyonight&count_private=true" />  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=raminjafary&theme=tokyonight&dates=DDD70D)" />  
 </p>

@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**I work on the Frontend. OSS lover!**
-
 <p align="center">
   <img 
     width="48%" 
